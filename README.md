@@ -23,6 +23,7 @@
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
 
 **Hosting services** <br />
+![Hetzner](https://img.shields.io/badge/Hetzner-bd2e2d?style=for-the-badge&logo=hetzner&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-174EA6?style=for-the-badge&logo=googlecloud&logoColor=white)
 
