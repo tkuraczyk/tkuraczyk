@@ -1,5 +1,7 @@
 ## 👋🏻 Hi, I'm Tomek
 
+Just an average teen who wants to make it in the programming world someday
+
 ## 🖥️ Technologies I've worked with
 
 **Web development** <br />
