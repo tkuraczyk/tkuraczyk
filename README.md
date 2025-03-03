@@ -24,11 +24,6 @@ Just an average teen who wants to make it in the programming world someday
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
 
-**Hosting services** <br />
-![Hetzner](https://img.shields.io/badge/Hetzner-bd2e2d?style=for-the-badge&logo=hetzner&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-174EA6?style=for-the-badge&logo=googlecloud&logoColor=white)
-
 **Other** <br />
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 ![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-9179e4.svg?style=for-the-badge&logo=cshrp&logoColor=white)
