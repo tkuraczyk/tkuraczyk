@@ -36,5 +36,6 @@ Just an average teen who wants to make it in the programming world someday
 
 * [algobaza.eu](https://algobaza.eu) - Algorythm database for competitive programming (FastAPI)
 * [jajco.net](https://jajco.net) - ~~Epic site for personal stuff~~
+* ~~[talent.edu.pl](https://talent.edu.pl) - Revamp of website for Talent Association~~ 🔜 👀
 
 ~~I use NixOS btw~~
